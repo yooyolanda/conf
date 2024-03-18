@@ -1,5 +1,5 @@
 {
-  info: ["karsms@icloud.com", "15574989048"]  
+  info: ["yolanda.cheung.1997@gmail.com", "18123729746"]  
   sub: {
     "BTC": [100, [31511.0], True, False],
     "OCEAN": [1.22, [1.2], False, False],
